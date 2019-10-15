@@ -58,9 +58,9 @@
     <Compile Include="Test_DdeServer.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NDde\NDde.csproj">
+    <ProjectReference Include="..\nDDE_Net45\nDDE_Net45.csproj">
       <Project>{D77772F9-3D3D-40BA-B95F-05C45878078F}</Project>
-      <Name>NDde</Name>
+      <Name>nDDE_Net45</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
